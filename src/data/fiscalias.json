@@ -1,0 +1,42 @@
+[
+    {
+    "cod_fiscalia":"4",
+    "gls_fiscalia":"Fiscalía Regional"
+    },
+    {
+    "cod_fiscalia":"401",
+    "gls_fiscalia":"La Serena"
+    },
+    {
+    "cod_fiscalia":"402",
+    "gls_fiscalia":"Coquimbo"
+    },
+    {
+    "cod_fiscalia":"403",
+    "gls_fiscalia":"Ovalle"
+    },
+    {
+    "cod_fiscalia":"404",
+    "gls_fiscalia":"Vicuna"
+    },
+    {
+    "cod_fiscalia":"405",
+    "gls_fiscalia":"Andacollo"
+    },
+    {
+    "cod_fiscalia":"406",
+    "gls_fiscalia":"Illapel"
+    },
+    {
+    "cod_fiscalia":"407",
+    "gls_fiscalia":"Los Vilos"
+    },
+    {
+    "cod_fiscalia":"408",
+    "gls_fiscalia":"Combarbalá"
+    },
+    {
+    "cod_fiscalia":"409",
+    "gls_fiscalia":"SACFI"
+    }
+]

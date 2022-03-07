@@ -1,0 +1,170 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "FISCALIA",
+          "type" : ""
+        },
+        {
+          "name" : "RUC",
+          "type" : ""
+        },
+        {
+          "name" : "IMPUTADO",
+          "type" : ""
+        },
+        {
+          "name" : "NUM_DOC_IDENTIFICACION",
+          "type" : ""
+        },
+        {
+          "name" : "TIPO_DOC",
+          "type" : ""
+        },
+        {
+          "name" : "FEC_DIGITACION_ACT",
+          "type" : ""
+        },
+        {
+          "name" : "ACTIVIDAD",
+          "type" : ""
+        },
+        {
+          "name" : "NACIONALIDAD",
+          "type" : ""
+        },
+        {
+          "name" : "DETENCION_ILEGAL",
+          "type" : ""
+        },
+        {
+          "name" : "RIT",
+          "type" : ""
+        }
+      ],
+      "items" : [
+        {
+          "fiscalia" : "OVALLE",
+          "ruc" : "2200155126-8",
+          "imputado" : "KEYVER GABRIEL MARTINEZ PADRON",
+          "num_doc_identificacion" : "28305778       ",
+          "tipo_doc" : "PASAPORTE                               ",
+          "fec_digitacion_act" : "17/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "VENEZUELA                     ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "COQUIMBO",
+          "ruc" : "2200143926-3",
+          "imputado" : "SANTIAGO ALEJANDRO CARVAJAL GARCIA",
+          "num_doc_identificacion" : "0000026455255-9",
+          "tipo_doc" : "CEDULA DE IDENTIDAD                     ",
+          "fec_digitacion_act" : "13/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "COLOMBIA                      ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "LA SERENA",
+          "ruc" : "2200162660-8",
+          "imputado" : "BENJAMIN AGUILAR BRACAMONTE",
+          "num_doc_identificacion" : "7812036        ",
+          "tipo_doc" : "PASAPORTE                               ",
+          "fec_digitacion_act" : "21/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "BOLIVIA                       ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "COQUIMBO",
+          "ruc" : "2200150038-8",
+          "imputado" : "YAHAIRA ESTEFANI RIASCOS AGUIO",
+          "num_doc_identificacion" : "25958860-K     ",
+          "tipo_doc" : "CEDULA DE IDENTIDAD EXTRANJERA          ",
+          "fec_digitacion_act" : "15/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "COLOMBIA                      ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "LA SERENA",
+          "ruc" : "2200144888-2",
+          "imputado" : "GABRIEL FERNANDO PAREDES SCHMIDT",
+          "num_doc_identificacion" : "0000023088303-3",
+          "tipo_doc" : "CEDULA DE IDENTIDAD                     ",
+          "fec_digitacion_act" : "14/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "PERU                          ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "LA SERENA",
+          "ruc" : "2200165959-K",
+          "imputado" : "WILFRED XENIBER MARTINEZ MEDINA",
+          "num_doc_identificacion" : "26846196       ",
+          "tipo_doc" : "CEDULA DE IDENTIDAD EXTRANJERA          ",
+          "fec_digitacion_act" : "21/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "VENEZUELA                     ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "COQUIMBO",
+          "ruc" : "2200150038-8",
+          "imputado" : "YEIDY ELIZABETH CUEVAS LOPEZ",
+          "num_doc_identificacion" : "RD4041283      ",
+          "tipo_doc" : "PASAPORTE                               ",
+          "fec_digitacion_act" : "15/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "REPUBLICA DOMINICANA          ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "OVALLE",
+          "ruc" : "2200162926-7",
+          "imputado" : "JOSE ANTONIO ARAUZ CHAVEZ",
+          "num_doc_identificacion" : "12430936       ",
+          "tipo_doc" : "PASAPORTE                               ",
+          "fec_digitacion_act" : "18/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "BOLIVIA                       ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "LA SERENA",
+          "ruc" : "2200167437-8",
+          "imputado" : "JESUS ALEJANDRO DE LUCAS LEON",
+          "num_doc_identificacion" : "0000014882803-2",
+          "tipo_doc" : "CEDULA DE IDENTIDAD                     ",
+          "fec_digitacion_act" : "21/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "VENEZUELA                     ",
+          "detencion_ilegal" : "21/02/22",
+          "rit" : ""
+        },
+        {
+          "fiscalia" : "LOS VILOS",
+          "ruc" : "2200164359-6",
+          "imputado" : "RICHARD EDUARDO CORTES CORTES",
+          "num_doc_identificacion" : "0000013418093-5",
+          "tipo_doc" : "CEDULA DE IDENTIDAD                     ",
+          "fec_digitacion_act" : "18/02/22",
+          "actividad" : "Audiencia de control de detención",
+          "nacionalidad" : "No Definido                   ",
+          "detencion_ilegal" : "",
+          "rit" : ""
+        }
+      ]
+    }
+  ]
+}
